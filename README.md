@@ -87,7 +87,7 @@ These datasets allow detailed analysis of how runs are scored throughout a match
 
 ### 📂 Project Workflow
 
-###### 1️⃣ Data Collection
+##### 1️⃣ Data Collection
 - Imported IPL datasets containing match-level and ball-by-ball data.
 ##### 2️⃣ Data Cleaning
 - Checked for missing values
