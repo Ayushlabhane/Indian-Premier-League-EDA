@@ -87,17 +87,17 @@ These datasets allow detailed analysis of how runs are scored throughout a match
 
 ### 📂 Project Workflow
 
-##### 1️⃣ Data Collection
+1. Data Collection
 - Imported IPL datasets containing match-level and ball-by-ball data.
-##### 2️⃣ Data Cleaning
+2. Data Cleaning
 - Checked for missing values
 - Standardized dataset structure
 - Verified match and delivery relationships
-##### 3️⃣ Exploratory Data Analysis
+3. Exploratory Data Analysis
 - Analyzed run distributions
 - Studied scoring across match phases
 - Evaluated team and match performance trends
-##### 4️⃣ Visualization
+4. Visualization
 - Created visualizations to understand scoring patterns, team performance, and match dynamics.
 
 ### 📌 Key Takeaways
